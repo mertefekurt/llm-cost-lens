@@ -1,0 +1,7 @@
+{"timestamp":"2026-06-25T08:00:01Z","request_id":"req_001","model":"gpt-4o-mini","team":"support","endpoint":"chat.completions","latency_ms":820,"status":"ok","usage":{"prompt_tokens":1200,"completion_tokens":280}}
+{"timestamp":"2026-06-25T08:03:18Z","request_id":"req_002","model":"gpt-4o-mini","team":"support","endpoint":"chat.completions","latency_ms":910,"status":"ok","usage":{"prompt_tokens":980,"completion_tokens":350}}
+{"timestamp":"2026-06-25T08:07:44Z","request_id":"req_003","model":"gpt-4o","team":"research","endpoint":"responses","latency_ms":2520,"status":"ok","usage":{"prompt_tokens":3100,"completion_tokens":900}}
+{"timestamp":"2026-06-25T08:09:12Z","request_id":"req_004","model":"gpt-4o-mini","team":"support","endpoint":"chat.completions","latency_ms":760,"status":"ok","usage":{"prompt_tokens":880,"completion_tokens":210}}
+{"timestamp":"2026-06-25T08:13:58Z","request_id":"req_005","model":"gpt-4o","team":"research","endpoint":"responses","latency_ms":6120,"status":"ok","usage":{"prompt_tokens":17500,"completion_tokens":5200}}
+{"timestamp":"2026-06-25T08:18:20Z","request_id":"req_006","model":"gpt-4.1-mini","team":"automation","endpoint":"batch","latency_ms":1430,"status":"ok","usage":{"input_tokens":2500,"output_tokens":640}}
+{"timestamp":"2026-06-25T08:21:33Z","request_id":"req_007","model":"gpt-4.1-mini","team":"automation","endpoint":"batch","latency_ms":1580,"status":"error","usage":{"input_tokens":2100,"output_tokens":0}}
